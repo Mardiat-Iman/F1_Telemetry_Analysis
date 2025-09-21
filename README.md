@@ -1,5 +1,6 @@
 I was told the best way to practice your skills is to apply it to something you have a passion for or love. 
 As a huge F1 fan, it was about time to explore the famous FastF1 dataset.
+
 This project:
 - analyses open source F1 telemetry datasets using Python (pandas, matplotlib).
 - Simulated test and validation workflows by detecting anomalies in braking, throttle, and speed traces.
